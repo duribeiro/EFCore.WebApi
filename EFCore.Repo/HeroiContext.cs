@@ -1,4 +1,4 @@
-﻿using EFCore.WebApi.Models;
+﻿using EFCore.Dominio;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
